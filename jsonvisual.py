@@ -1,3 +1,5 @@
+#https://towardsdatascience.com/how-to-flatten-deeply-nested-json-objects-in-non-recursive-elegant-python-55f96533103d
+
 from itertools import chain, starmap
 
 def flatten_json_iterative_solution(dictionary):
